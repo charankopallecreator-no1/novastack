@@ -103,7 +103,7 @@ const AboutSection = () => {
                 className="absolute -top-6 -right-6 bg-gradient-primary rounded-2xl p-4 shadow-glow"
               >
                 <div className="text-center text-white">
-                  <div className="text-2xl font-bold">50+</div>
+                  <div className="text-2xl font-bold">5</div>
                   <div className="text-sm opacity-90">Projects</div>
                 </div>
               </motion.div>

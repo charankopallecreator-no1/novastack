@@ -64,13 +64,13 @@ const ContactSection = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      content: 'hello@novastack.dev',
+      content: 'charankopallecreator@gmail.com',
       description: 'Send us an email anytime'
     },
     {
       icon: Phone,
       title: 'Call Us',
-      content: '+1 (555) 123-4567',
+      content: '+91 9908011844',
       description: 'Mon-Fri from 8am to 6pm'
     },
     {

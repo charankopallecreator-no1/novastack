@@ -18,8 +18,8 @@ const Navbar = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: '#', label: 'GitHub' },
-    { icon: Linkedin, href: '#', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/dashboard', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/charan-kopalle-861513385/', label: 'LinkedIn' },
     { icon: Instagram, href: '#', label: 'Instagram' },
     { icon: MessageCircle, href: '#', label: 'WhatsApp' },
   ];

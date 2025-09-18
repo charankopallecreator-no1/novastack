@@ -52,10 +52,10 @@ const Footer = () => {
 
               <div className="space-y-2">
                 <p className="text-sm text-muted-foreground">
-                  <strong className="text-foreground">Email:</strong> hello@novastack.dev
+                  <strong className="text-foreground">Email:</strong> charankopallecreator@gmail.com
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  <strong className="text-foreground">Phone:</strong> +1 (555) 123-4567
+                  <strong className="text-foreground">Phone:</strong> +91 9908011844
                 </p>
                 <p className="text-sm text-muted-foreground">
                   <strong className="text-foreground">Response:</strong> Within 24 hours
