@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: /sitemap.xml
+
+# Disallow admin pages (if any)
+Disallow: /admin/
+Disallow: /api/
+
+# Allow all other pages
+Allow: /services
+Allow: /projects  
+Allow: /about
+Allow: /contact
