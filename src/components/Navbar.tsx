@@ -18,7 +18,7 @@ const Navbar = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com/dashboard', label: 'GitHub' },
+    { icon: Github, href: 'https://github.com/charankopallecreator-no1', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/charan-kopalle-861513385/', label: 'LinkedIn' },
     { icon: Instagram, href: '#', label: 'Instagram' },
     { icon: MessageCircle, href: '#', label: 'WhatsApp' },
@@ -39,7 +39,7 @@ const Navbar = () => {
               whileHover={{ scale: 1.05 }}
               className="flex items-center space-x-2"
             >
-              <img src="/assets/nova-logo.png" alt="NovaStack" className="h-8 w-auto" />
+              <img src="/assets/android-chrome-512x512.png" alt="NovaStack" className="h-8 w-auto" />
               <span className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
                 NovaStack
               </span>
